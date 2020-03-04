@@ -7,10 +7,12 @@ function greeter(name, age) {
         console.log(message);
 
     };
+    
 
 }
 var TestGreeter = greeter("Vinod", 28);
 
 TestGreeter();
+
 
 //Output //Vinod says hello!! He is 28 years old
